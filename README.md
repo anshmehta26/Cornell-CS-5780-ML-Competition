@@ -154,6 +154,6 @@ Average sigmoid outputs  →  threshold at 0.5  →  ±1
 
 This repository documents methodology and results rather than publishing the implementation. The competition was a graded course assignment, and Cornell's [Code of Academic Integrity](https://www.cs.cornell.edu/courses/cs5780/2025sp/#Policies) asks for written instructor authorization before coursework is distributed publicly.
 
-If you're a recruiter, interviewer, or anyone else who'd like to review the code, I'm glad to share it directly — contact details are on my GitHub profile.
+If you're a recruiter, interviewer, or anyone else who'd like to review the code, I'm glad to share it directly — contact me at anshm2606@gmail.com or am2555@cornell.edu
 
 The dataset is not included and is not mine to redistribute.
