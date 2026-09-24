@@ -8,6 +8,12 @@ Final private-leaderboard accuracy: **0.9102**, up from a 0.64 linear baseline a
 
 ---
 
+## Verification
+
+[Kaggle leaderboard and full submission history](https://drive.google.com/drive/folders/1NlLO_a726KBFIgLGY1MONOipP4gBTpDo?usp=sharing) — screenshots covering all 17 submissions with their public and private scores, and the final standing.
+
+---
+
 ## Overview
 
 A pairwise image-comparison problem: given two 24×24 grayscale images, predict whether the contents of the first beat the contents of the second — `+1` if it wins, `-1` otherwise.
@@ -144,11 +150,6 @@ Average sigmoid outputs  →  threshold at 0.5  →  ±1
 
 ---
 
-## Verification
-
-[Kaggle leaderboard and full submission history](https://drive.google.com/drive/folders/1NlLO_a726KBFIgLGY1MONOipP4gBTpDo?usp=sharing) — screenshots covering all 17 submissions with their public and private scores, and the final standing.
-
----
 
 ## Repository Contents
 
